@@ -1,4 +1,12 @@
 .game-card {
     height: 100vh;
-    font-family: 'Open Sans', monospace;
+    font-family: 'Roboto', sans;
+}
+
+.text-center {
+    border-width: 5px;
+}
+
+.btn {
+    margin: 5px;
 }

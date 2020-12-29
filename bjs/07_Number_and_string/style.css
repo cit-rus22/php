@@ -7,3 +7,22 @@
     text-align: end;
     font-size: x-large;
 }
+
+#calc {
+    background-color: black;
+}
+
+.col {
+    margin-bottom: 2px;
+    margin-right: 2px;
+}
+
+#inputWindow {
+    margin-bottom: 2px;
+    margin-right: 2px;
+}
+
+.duplicateField {
+    background-color: darkblue;
+    color:chartreuse;
+}
